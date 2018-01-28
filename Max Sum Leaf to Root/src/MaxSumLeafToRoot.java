@@ -1,6 +1,7 @@
 
 //Java program to find maximum sum leaf to root
-//path in Binary Tree
+//path in Binary Tree; use this example to play around with 
+//binary tree quizzes
 
 class BinaryTree
 {
