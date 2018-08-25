@@ -1,6 +1,9 @@
 body {
-    background-image: url("images/puppy.jpeg");
-    font: 30px "Century Gothic", Futura, sans-serif;
+  background-image: url("images/ticTacToe.jpg");
+  color: black;
+  width: 100%;
+  height: 100%;
+  font: 30px "Century Gothic", Futura, sans-serif;
     margin: 200px;
 }
 
@@ -14,7 +17,22 @@ ol, ul {
   display: table;
 }
 
+.column {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  height: 350px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .status {
+  color: #fff;
   margin-bottom: 20px;
   margin-left: 20px;
 }
@@ -44,13 +62,15 @@ ol, ul {
 }
 
 .game {
-  background: #fff;
-  width: 1550px;
+  /*background-image: url("images/ticTacToe.jpg");*/
+  background: #ffffff;
+  width: 550px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .game-info {
-    margin-left: 20px;
+  background: #fff;
+  margin-left: 20px;
 }
 

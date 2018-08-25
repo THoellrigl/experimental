@@ -46,6 +46,17 @@ class PlayerList extends React.Component{
     }
 }
 
+class LeaderBoard extends React.Component {
+    render () {
+        return (
+           <ol>
+               <li>We will get the list of best players out of the MongoDB!</li>
+           </ol>
+
+        )
+    }
+}
+
 const responseFacebook = (response) => {
     if (response.expiresIn > 0) {
         userLoggedIn = true;
@@ -77,14 +88,6 @@ function UserLogin(){
 }
 
 class Board extends React.Component {
-
-    /*renderUserLogin(props) {
-        return (
-          < UserLogin
-              value={props}
-          />
-        );
-    }*/
 
     renderSquare(i) {
         return (
@@ -219,10 +222,11 @@ class Game extends React.Component {
 
         if(this.state.items.length < 2){
             return (
-                <div className="game">
+                <div className="status">
                     <div className="status">
                         <UserLogin />
                     </div>
+                    <div className="status">Please add two players!</div>
                     <div className='status'>
                         <h3>Players</h3>
                         <PlayerList items={this.state.items}/>
@@ -232,16 +236,18 @@ class Game extends React.Component {
                                 value={this.state.text}
                             />
                         </form>
-                        <button>
-                            Add #{this.state.items.length + 1}
-                        </button>
                     </div>
-                    <div className="status">Please add at two players!</div>
-                    <div className="game-board">
-                        <Board
-                            squares={current.squares}
-                            onClick={(i) => this.handleClick(i)}
-                        />
+                    <div className="row">
+                        <div className="column">
+                            <Board
+                                squares={current.squares}
+                                onClick={(i) => this.handleClick(i)}
+                            />
+                        </div>
+                        <div className="column">
+                            <h3>Leaderboard</h3>
+                            
+                        </div>
                     </div>
                     <div className="game-info">
                         <div>{status}</div>
@@ -251,22 +257,27 @@ class Game extends React.Component {
             );
         }else{
             return (
-                <div>
-                <div className="status">&nbsp;&nbsp;&nbsp;
-                <UserLogin />
-                </div>
+                <div className="status">
+                    <div className="status">&nbsp;&nbsp;&nbsp;
+                        <UserLogin />
+                    </div>
                 <div className='status'>
-                <h3>Players</h3>
-                <PlayerList items={this.state.items}/>
+                    <h3>Players</h3>
+                    <PlayerList items={this.state.items}/>
                 </div>
                 <div className="status">{status}</div>
-                    <div className="game-board">
-                        <Board
-                            squares={current.squares}
-                            onClick={(i) => this.handleClick(i)}
-                        />
+                    <div>
+                        <div className="column">
+                            <Board
+                                squares={current.squares}
+                                onClick={(i) => this.handleClick(i)}
+                            />
+                        </div>
+                        <div className="column">
+                            <h3>Leaderboard</h3>
+                        </div>
                     </div>
-                    <div className="game-info">
+                    <div className="status">
                         <div>{status}</div>
                         <ol>{moves}</ol>
                     </div>
