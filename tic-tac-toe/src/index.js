@@ -227,30 +227,32 @@ class Game extends React.Component {
                         <UserLogin />
                     </div>
                     <div className="status">Please add two players!</div>
-                    <div className='status'>
-                        <h3>Players</h3>
-                        <PlayerList items={this.state.items}/>
-                        <form onSubmit={this.handleSubmit}>
-                            <input
-                                onChange={this.handleChange}
-                                value={this.state.text}
-                            />
-                        </form>
-                    </div>
-                    <div className="row">
+                    <div className='row'>
                         <div className="column">
+                            <h3>Players</h3>
+                            <PlayerList items={this.state.items}/>
+                            <form onSubmit={this.handleSubmit}>
+                                <input
+                                    onChange={this.handleChange}
+                                    value={this.state.text}
+                                />
+                            </form>
+                        </div>
+                        <div className="column">
+                            <h3>Leaderboard</h3>
+                            <LeaderBoard/>
+                        </div>
+                    </div>
+                    <div>
+                        <div className="board-row">
                             <Board
                                 squares={current.squares}
                                 onClick={(i) => this.handleClick(i)}
                             />
                         </div>
-                        <div className="column">
-                            <h3>Leaderboard</h3>
-                            
-                        </div>
                     </div>
-                    <div className="game-info">
-                        <div>{status}</div>
+                    <div className="status">
+                        /*<div>{status}</div>*/
                         <ol>{moves}</ol>
                     </div>
                 </div>
@@ -261,24 +263,27 @@ class Game extends React.Component {
                     <div className="status">&nbsp;&nbsp;&nbsp;
                         <UserLogin />
                     </div>
-                <div className='status'>
-                    <h3>Players</h3>
-                    <PlayerList items={this.state.items}/>
+                <div className="row">
+                    <div className='column'>
+                        <h3>Players</h3>
+                        <PlayerList items={this.state.items}/>
+                    </div>
+                    <div className="column">
+                        <h3>Leaderboard</h3>
+                        <LeaderBoard/>
+                    </div>
                 </div>
                 <div className="status">{status}</div>
                     <div>
-                        <div className="column">
+                        <div className="board-row">
                             <Board
                                 squares={current.squares}
                                 onClick={(i) => this.handleClick(i)}
                             />
                         </div>
-                        <div className="column">
-                            <h3>Leaderboard</h3>
                         </div>
-                    </div>
                     <div className="status">
-                        <div>{status}</div>
+                        /*<div>{status}</div>*/
                         <ol>{moves}</ol>
                     </div>
                 </div>
