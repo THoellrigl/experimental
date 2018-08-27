@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a7c5dd-2169-4e18-ad75-93c90bdd2c2b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/client/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/facebook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/facebook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/images/puppy.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/puppy.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/images/ticTacToe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/ticTacToe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -244,12 +234,12 @@
       <workItem from="1533093012079" duration="1149000" />
       <workItem from="1533337882335" duration="753000" />
       <workItem from="1534717289995" duration="3469000" />
-      <workItem from="1535039951388" duration="17208000" />
+      <workItem from="1535039951388" duration="17871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80730000" />
+    <option name="totallyTimeSpent" value="81393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,6 +252,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329235" />
