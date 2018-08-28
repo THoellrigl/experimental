@@ -19,3 +19,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ignore secrets file
+mern-comment-box/backend/secrets.js
