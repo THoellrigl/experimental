@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="66a7c5dd-2169-4e18-ad75-93c90bdd2c2b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mern-comment-box/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/backend/models/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/backend/models/comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/client/src/CommentBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/client/src/CommentBox.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -253,7 +255,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329235" />
