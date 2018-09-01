@@ -1,0 +1,10 @@
+{
+  "name": "Thorsten",
+  "version": "yes",
+  "description": "An application to store tic-tac-toe games in a mongodb to store leaderboard.",
+  "main": "yes",
+  "repository": "mongodb://thoellrigl:test69@ds133632.mlab.com:33632/mern-comment-box",
+  "author": "Thorsten",
+  "license": "OS",
+  "private": false
+}
