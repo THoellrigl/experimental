@@ -1,10 +1,21 @@
 {
-  "name": "Thorsten",
+  "name": "MERN-Tic-Tac-Toe",
   "version": "yes",
   "description": "An application to store tic-tac-toe games in a mongodb to store leaderboard.",
   "main": "yes",
   "repository": "mongodb://thoellrigl:test69@ds133632.mlab.com:33632/mern-comment-box",
   "author": "Thorsten",
-  "license": "OS",
-  "private": false
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.4"
+  }
 }
