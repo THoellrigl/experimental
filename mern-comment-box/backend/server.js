@@ -30,6 +30,8 @@ router.get('/', (req, res) => {
     res.json({ message: 'Hello, World!' });
 });
 
+
+// Search - read
 router.get('/comments', (req, res) => {
     Comment.find((err, comments) => {
         if (err) return res.json({ success: false, error: err });
@@ -37,6 +39,7 @@ router.get('/comments', (req, res) => {
     });
 });
 
+// Create
 router.post('/comments', (req, res) => {
     const comment = new Comment();
     // body parser lets us use the req.body
@@ -56,6 +59,7 @@ router.post('/comments', (req, res) => {
     });
 });
 
+// Update
 router.put('/comments/:commentId', (req, res) => {
     console.log(req.params);
     const { commentId } = req.params;
@@ -74,12 +78,13 @@ router.put('/comments/:commentId', (req, res) => {
     });
 });
 
+// Delete
 router.delete('/comments/:commentId', (req, res) => {
     const { commentId } = req.params;
     if (!commentId) {
         return res.json({ success: false, error: 'No comment id provided' });
     }
-    Comment.remove({ _id: commentId }, (error, comment) => {
+    Comment.deleteOne({ _id: commentId }, (error, comment) => {
         if (error) return res.json({ success: false, error });
         return res.json({ success: true });
     });
