@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a7c5dd-2169-4e18-ad75-93c90bdd2c2b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/backend/models/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/backend/models/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/escapeArgument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/escapeCommand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/readShebang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/readShebang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/resolveCommand.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/lib/util/resolveCommand.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/globals.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/globals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/license" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/globals/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/js-tokens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/loose-envify/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/loose-envify/node_modules/js-tokens/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/loose-envify/node_modules/js-tokens/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/loose-envify/node_modules/js-tokens/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/loose-envify/node_modules/js-tokens/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/license" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/pify/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/node_modules/resolve-from/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-tic-tac-toe/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-tic-tac-toe/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secrets.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="secrets.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/secrets.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -66,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="24" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="366">
+              <caret line="31" column="4" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="31" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -137,28 +180,6 @@
             <path>
               <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
               <item name="tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,12 +262,12 @@
       <workItem from="1534717289995" duration="3469000" />
       <workItem from="1535039951388" duration="21658000" />
       <workItem from="1535933559490" duration="619000" />
-      <workItem from="1536013608947" duration="1991000" />
+      <workItem from="1536013608947" duration="4632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87790000" />
+    <option name="totallyTimeSpent" value="90431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="24" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -705,6 +719,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/secrets.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

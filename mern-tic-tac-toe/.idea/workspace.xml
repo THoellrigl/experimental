@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6f4720f-02ad-4bf6-a709-737ba221ccf6" name="Default" comment="" />
+    <list default="true" id="a6f4720f-02ad-4bf6-a709-737ba221ccf6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mern-comment-box/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeArgument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escapeCommand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/globals.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/globals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/node_modules/js-tokens/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/node_modules/js-tokens/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/node_modules/js-tokens/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/node_modules/js-tokens/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pify/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pify/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pify/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pify/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pify/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pify/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic-tac-toe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tic-tac-toe/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,6 +60,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -28,12 +83,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/server.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+              <folding>
+                <element signature="e#51#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.babelrc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -42,11 +104,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/models/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="411">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -65,14 +139,17 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/src/index.js" />
         <option value="$PROJECT_DIR$/client/src/index.css" />
         <option value="$PROJECT_DIR$/backend/secrets.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/backend/models/game.js" />
+        <option value="$PROJECT_DIR$/backend/server.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
       </list>
     </option>
@@ -92,6 +169,7 @@
     <option name="width" value="1440" />
     <option name="height" value="817" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -116,17 +194,6 @@
               <item name="backend" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mern-tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mern-tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mern-tic-tac-toe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mern-tic-tac-toe" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -140,7 +207,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -160,9 +227,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MERN-Tic-Tac-Toe" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/Cellar/node/10.9.0/bin/node" node-parameters="-r -babel-register" path-to-js-file="backend/server.js" working-dir="$PROJECT_DIR$">
+    <configuration name="MERN-Tic-Tac-Toe" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/Cellar/node/10.9.0/bin/node" node-parameters="-r babel-register" path-to-js-file="backend/server.js" working-dir="$PROJECT_DIR$">
       <envs>
-        <env name="DB_URI" value="mongodb://thoellrigl:test69@ds133632.mlab.com:33632/mern-tic-tac-toe" />
+        <env name="DB_URI" value="mongodb://thoellrigl:test69@ds141952.mlab.com:41952/mern-tic-tac-toe" />
       </envs>
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js">
@@ -182,26 +249,27 @@
       <option name="presentableId" value="Default" />
       <updated>1535757983899</updated>
       <workItem from="1535757986054" duration="1771000" />
-      <workItem from="1535933559491" duration="4973000" />
+      <workItem from="1535933559491" duration="9576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6744000" />
+    <option name="totallyTimeSpent" value="11347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003524" side_tool="true" weight="0.3994528" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32831737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49964765" weight="0.32831737" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49964765" visible="true" weight="0.3994528" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -209,14 +277,51 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32831737" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/backend/server.js</url>
+          <line>61</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/backend/server.js</url>
+          <line>38</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -229,22 +334,12 @@
     <entry file="file://$PROJECT_DIR$/client/src/facebook.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/secrets.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -265,13 +360,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/server.js">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/models/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="e#51#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
